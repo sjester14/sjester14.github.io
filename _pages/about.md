@@ -4,7 +4,7 @@ title: About
 image: '/images/15.jpg'
 ---
 
-Hi, my name is James Clayton. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
+Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
 
 ![Loneliness]({{site.baseurl}}/images/30.jpg)
 *Photo by [Grace Madeline](https://unsplash.com/@grxcemadeline) on Unsplash*
