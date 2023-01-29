@@ -5,7 +5,7 @@ image: '/images/15.jpg'
 ---
 
 Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design.
-<br></br>
+<br>
 Currently, I'm employed with GIB Games in Cincinnati, Ohio, as a Junior Level Designer. I've worked on Cold Start: The Callisto, Vampire: The Masquerade- Dark Skylines, and SCP: Infohazard. My main focus lies in creating environments focused around puzzles, as well as interior level designs. My current game design focus is on Virtual Reality, though we have been making our titles playable on desktop, as well.
 
 ![Personal Logo]({{site.baseurl}}/images/30.jpg)
@@ -24,4 +24,4 @@ One of my largest was my involvement in the [Grasshopper Manufacture Zine Vol. 2
 
 A lot of my influences come from Japanese game designers and creatives, as well as western indie game spaces. Currently, in my spare time, I'm working on a cel-shaded minimalist horror visual novel, influenced by the aesthetics of Revolutionary Girl Utena and The Silver Case.
 <img src="/images/project-9.jpg" alt="Project">
-***
+I'm always interested in collaboration, so if you're looking for someone to work with, feel free to reach out!
