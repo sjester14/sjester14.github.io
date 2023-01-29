@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 
-title: Avenco
+title: Jester
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Avenco – Creative Portfolio Theme for Jekyll
+description: Steve Jester's personal website
 
 menu__settings:
   menu__items:
