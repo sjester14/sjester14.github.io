@@ -1,7 +1,7 @@
 ---
-title: Abstraction
+title: Fishing With The Homies
 date: 2021-01-25 08:01:35 +0300
-subtitle: Branding
+subtitle: Senior Capstone
 image: '/images/project-1.jpg'
 ---
 
