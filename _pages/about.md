@@ -4,10 +4,12 @@ title: About
 image: '/images/15.jpg'
 ---
 
-Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
+Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design.
+Currently, I'm employed with GIB Games in Cincinnati, Ohio, as a Junior Level Designer. I've worked on Cold Start: The Callisto, Vampire: The Masquerade- Dark Skylines, and SCP: Infohazard. My main focus lies in creating environments focused around puzzles, as well as interior level designs. My current game design focus is on Virtual Reality, though we have been making our titles playable on desktop, as well.
 
 ![Loneliness]({{site.baseurl}}/images/30.jpg)
 *Photo by [Grace Madeline](https://unsplash.com/@grxcemadeline) on Unsplash*
+
 
 Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim. Tousled brunch leggings hella viral twee etsy butcher messenger.
 
