@@ -23,5 +23,7 @@ One of my largest was my involvement in the [Grasshopper Manufacture Zine Vol. 2
 </div>
 
 A lot of my influences come from Japanese game designers and creatives, as well as western indie game spaces. Currently, in my spare time, I'm working on a cel-shaded minimalist horror visual novel, influenced by the aesthetics of Revolutionary Girl Utena and The Silver Case.
+<br>
 <img src="/images/project-9.jpg" alt="Project">
+<br>
 I'm always interested in collaboration, so if you're looking for someone to work with, feel free to reach out!
