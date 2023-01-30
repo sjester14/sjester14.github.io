@@ -329,10 +329,12 @@ table td {
 }
 
 .lazy {
-  opacity: 0;
-  transition: 0.8s ease-in-out;
+    color: #120f3e;
+    opacity: 0;
+    transition: 0.8s ease-in-out;
 }
 
 .lazy.loaded {
-  opacity: 1;
+    color: #120f3e;
+    opacity: 1;
 }
