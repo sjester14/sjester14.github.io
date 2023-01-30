@@ -36,7 +36,7 @@ body {
 }
 
 *::selection {
-  color: $black;
+  color: 0, 0, 0, 255;
   background-color: rgba($primary-color, 0.8);
 }
 
@@ -127,7 +127,7 @@ pre {
   padding: 15px;
   margin-bottom: 0;
   font-size: 14px;
-  black-space: pre-wrap;
+  white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
 }
@@ -234,7 +234,7 @@ table th {
   font-size: 16px;
   text-align: left;
   border: 1px solid $text-color;
-  color: $black;
+  color: 0, 0, 0, 255;
   font-weight: 700;
   background-color: $text-color;
 }
@@ -298,10 +298,10 @@ table td {
   .cover-image {
     &::after {
       will-change: transform;
-      background: linear-gradient(180deg, rgba($black, 0.5) 0%, $black 95%);
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, 0, 0, 0, 95%);
 
       @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-        background: linear-gradient(180deg, rgba($black, 0.65) 0%, $black 95%);
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.65) 0%, 0, 0, 0, 95%);
         -webkit-backdrop-filter: blur(5px);
         backdrop-filter: blur(5px);
       }
@@ -312,15 +312,15 @@ table td {
 .footer-cover {
   bottom: 0;
   height: 220px;
-  border-top: 1px solid $black;
+  border-top: 1px solid 0, 0, 0, 50%;
 
   .cover-image {
     &::after {
       will-change: transform;
-      background: linear-gradient(0, rgba($black, 0.8) 0%, $black 95%);
+      background: linear-gradient(0, rgba(0, 0, 0, 0.8) 0%, 0, 0, 0, 95%);
 
       @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-        background: linear-gradient(0, rgba($black, 0.65) 0%, $black 95%);
+        background: linear-gradient(0, rgba(0, 0, 0, 0.65) 0%, 0, 0, 0, 95%);
         -webkit-backdrop-filter: blur(5px);
         backdrop-filter: blur(5px);
       }
