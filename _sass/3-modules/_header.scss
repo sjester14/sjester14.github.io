@@ -1,7 +1,8 @@
 /* Header */
 .header {
-  height: auto;
-  transition: $global-transition;
+    height: auto;
+    transition: $global-transition;
+    background-color: rgba($dark, .8);
 }
 
 .header__inner {
