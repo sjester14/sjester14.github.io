@@ -21,28 +21,30 @@
 
 .post-title,
 .page-title {
-  margin: 0;
-  font-size: 56px;
-  font-weight: 900;
-  line-height: 1.12;
+    color: $blue_gray;
+    margin: 0;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 1.12;
 
-  @media only screen and (max-width: $tablet) {
-    font-size: 36px;
-  }
+    @media only screen and (max-width: $tablet) {
+        font-size: 36px;
+    }
 
-  @media only screen and (max-width: $mobile) {
-    font-size: 32px;
-  }
+    @media only screen and (max-width: $mobile) {
+        font-size: 32px;
+    }
 }
 
 .page-description {
-  margin: 30px auto 0;
-  max-width: 560px;
-  line-height: 1.6;
+    margin: 30px auto 0;
+    max-width: 560px;
+    line-height: 1.6;
+    color: $blue_gray;
 
-  @media only screen and (max-width: $mobile) {
-    margin: 24px auto 0;
-  }
+    @media only screen and (max-width: $mobile) {
+        margin: 24px auto 0;
+    }
 }
 
 .post-image,
