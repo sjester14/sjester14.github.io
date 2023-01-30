@@ -7,6 +7,7 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   color: $heading-font-color;
+  background-color: rgba($dark, 1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -25,7 +26,7 @@ body {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba($dark, 0.5);
+    background-color: rgba($dark, 1);
     z-index: 15;
     transition: 1s;
   }
