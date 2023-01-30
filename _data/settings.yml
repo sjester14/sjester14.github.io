@@ -33,6 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Steve Jester
   title: Hi, I'm Steve Jester!
+  <br>
   bio: Junior Level Designer at GIB Games, Zine writer, and lover of niche games. In my spare time, I like to build scale models.
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
