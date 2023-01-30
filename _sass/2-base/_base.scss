@@ -237,7 +237,7 @@ table th {
   border: 1px solid $text-color;
   color: $dark, 255;
   font-weight: 700;
-  background-color: $text-color;
+  background-color: $dark;
 }
 
 table tr {
@@ -275,6 +275,7 @@ table td {
         }
 
         img {
+            color: $dark, 75%;
             position: absolute;
             top: 0;
             left: 0;
@@ -313,7 +314,7 @@ table td {
 .footer-cover {
     bottom: 0;
     height: 220px;
-    border-top: 1px solid $dark, 50%;
+    border-top: 1px solid $dark, 75%;
 
     .cover-image {
         &::after {
