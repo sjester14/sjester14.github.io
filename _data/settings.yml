@@ -105,12 +105,12 @@ mailchimp__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+#disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+#google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
@@ -119,9 +119,9 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-github", link: "https://github.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-codepen", link: "https://codepen.io"}
+#- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+#- {icon: "ion-logo-youtube", link: "https://youtube.com"}
