@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Three Senior Year Projects
-date:   2018-04-24 15:01:35 +0300
+date:   2023-02-09 12:00:00 +0300
 image:  '/images/project-9.jpg'
 tags:   
 ---
