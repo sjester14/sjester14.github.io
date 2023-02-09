@@ -1,23 +1,25 @@
 ---
 layout: post
-title:  You must be the change you wish to see in the world
-date:   2018-11-06 15:01:35 +0300
-image:  '/images/09.jpg'
-tags:   [lifestyle, rest]
+title:  Three Senior Year Projects
+date:   2018-04-24 15:01:35 +0300
+image:  '/images/project-9.jpg'
+tags:   
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+
+The visual novel project I'm working on is one I started on in my Senior year of college. It was part of a course that was very openly-structured, where the goal was to make three personal projects that we could publicly release. I had the idea to try not just 3 projects, but 3 projects in different mediums- a bit ambitious, for sure, but I wanted to work my way up in terms of writing intensity- the first would be a fair amount of writing with more focus on image editing, the next would be more tightly-knit writing with minor programming, and the last would be focused on direction, writing, and a significant amount of programming.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.jpg" alt="Project">
+    <img src="/images/project-8.jpg" alt="Project">
     <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/project-9.jpg" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+The first one was a solo fanzine about the Square Enix franchise SaGa, titled A Permissible Act of Selfishness- Falling in Love With RPGs Again, Through Romancing SaGa. I had played the series over the pandemic after a long-deserved break after playing Persona 5. After going back to one of the wildest, most ambitious games of the Super Nintendo, Romancing SaGa 2, I did a deep dive into the rest of the series, playing 3, Minstrel Song, and the Frontier games, as well as other titles by the same director. All of them captivated me in ways I had never felt with a classic game, even when it came to Final Fantasy and Dragon Quest, and had finally found an RPG to be "my thing that I push".
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> So, because of that, I made a short zine talking about what it does well, its roots, and what sets it apart from its contemporaries. Alongside the remakes, it got most of my friends interested in the series!
 
 Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
 
