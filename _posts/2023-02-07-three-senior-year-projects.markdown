@@ -11,20 +11,27 @@ The visual novel project I'm working on is one I started on in my Senior year of
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
-    <img src="/images/project-9.jpg" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 The first one was a solo fanzine about the Square Enix franchise SaGa, titled A Permissible Act of Selfishness- Falling in Love With RPGs Again, Through Romancing SaGa. I had played the series over the pandemic after a long-deserved break after playing Persona 5. After going back to one of the wildest, most ambitious games of the Super Nintendo, Romancing SaGa 2, I did a deep dive into the rest of the series, playing 3, Minstrel Song, and the Frontier games, as well as other titles by the same director. All of them captivated me in ways I had never felt with a classic game, even when it came to Final Fantasy and Dragon Quest, and had finally found an RPG to be "my thing that I push".
 
-> So, because of that, I made a short zine talking about what it does well, its roots, and what sets it apart from its contemporaries. Alongside the remakes, it got most of my friends interested in the series!
+</br> So, because of that, I made a short zine talking about what it does well, its roots, and what sets it apart from its contemporaries. Alongside the remakes, it got most of my friends interested in the series!
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/project-6.jpg" alt="Project">
+  </div>
+</div>
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+Next up, I decided to learn a tool for making microgames. I had played a fangame of Yume Nikki called Madotsuki's Closet, which had left a significant impression on me after replaying Yume Nikki that year, and decided to try making a similar game in that vein using the engine, Bitsy, as well as addon tools like bitsy3d and sound additions alongside it, while jumping between gameplay and twine game segments. It was about my personal experiences playing Grasshopper Manufacture's Flower, Sun and Rain in high school, and how my mental and emotional state at the time that made me appreciate the work more in the moment as time went on. It's a game that still holds a special place in my heart, and I highly recommend the series its in, both because of and despite how I felt afterwards.
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/project-9.jpg" alt="Project">
+  </div>
+</div>
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+Lastly, this final project was something where my plan was to develop a prologue for a project I wanted to make in the future; A visual novel in the style of something like The Silver Case that used 3D assets, while being visually inspired by early 3D visuals in games like House Of The Dead and Alone In The Dark- lowpoly 3d and flat shading.
+
+</br> This one was the most difficult of the three to make, so it's more of an introduction to a story about a person whose classmate gets killed and replaced by a body-snatcher, but nobody remembers the original person anymore. Low texture detail with stark visual contrast was a bit of a challenge, but I think it can work for a small-scale solo project. I'm working to rewrite and remake the intro, and continue from there with writing it in parts as a semi-episodic release!
