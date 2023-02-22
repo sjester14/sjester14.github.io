@@ -20,7 +20,7 @@ The first one was a solo fanzine about the Square Enix franchise SaGa, titled A 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/mopl.png" alt="Project">
   </div>
 </div>
 

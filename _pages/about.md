@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/15.jpg'
+image: '/images/30.jpg'
 ---
 
 Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design.
@@ -18,7 +18,7 @@ One of my largest was my involvement in the [Grasshopper Manufacture Zine Vol. 2
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
     <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-6.jpg" alt="Project">
+    <img src="/images/mopl.png" alt="Project">
   </div>
 </div>
 
