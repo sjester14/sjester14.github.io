@@ -71,7 +71,7 @@ contact__settings:
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
   mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about design!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
-  mailchimp__identifier: https://github.us21.list-manage.com/subscribe/post
+  mailchimp__identifier: https://github.us21.list-manage.com/subscribe/post?u=9becd76dacc187625fe67dc9a&amp;id=90554b1efe&amp;f_id=00bae8e1f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
 
