@@ -10,19 +10,21 @@ image: '/images/25.jpg'
     <p class="page-description">{{site.contact.description}}</p>
     {% endif %}
   </div>
-<form
-  action="https://formspree.io/f/mzbqrjaj"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+  <form class="form" action="{% if site.contact.email %}https://formspree.io/f/mzbqrjaj{{site.contact.email}}{% else %}#{% endif %}" method="POST">
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button" type="submit">Send Message</button>
+    </div>
+  </form>
 </div>
