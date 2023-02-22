@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/avatar1.jpg'
+image: '/images/avatar1.png'
 ---
 
 Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design.
