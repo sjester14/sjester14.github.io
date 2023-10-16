@@ -6,7 +6,7 @@ image: '/images/avatar1.png'
 
 Hi, my name is Steve Jester. I graduated from Miami University in 2022 with a Bachelors of Science from Emerging Technologies in Business + Design.
 <br>
-Currently, I'm employed with GIB Games in Cincinnati, Ohio, as a Junior Level Designer. I've worked on Cold Start: The Callisto, Vampire: The Masquerade- Dark Skylines, and SCP: Infohazard. My main focus lies in creating environments focused around puzzles, as well as interior level designs. My current game design focus is on Virtual Reality, though we have been making our titles playable on desktop, as well.
+Most recently, I was employed with GIB Games in Cincinnati, Ohio, as a Junior Level Designer. I've worked on Cold Start: The Callisto, Vampire: The Masquerade- Dark Skylines, and SCP: Infohazard. My main focus lies in creating environments focused around puzzles, as well as interior level designs. My current game design focus is on Virtual Reality, though we made our titles playable on desktop, as well.
 
 ![Personal Logo]({{site.baseurl}}/images/30.jpg)
 *Personal Logo, link to [Itch Page](https://sjester.itch.io/)*
