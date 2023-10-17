@@ -1,6 +1,6 @@
 ---
 title: Fishing With The Homies
-date: 2022-09-30 10:00:00 +0300
+date: 2022-01-03 10:00:00 +0300
 subtitle: Senior Capstone
 image: '/images/project-1.jpg'
 ---
