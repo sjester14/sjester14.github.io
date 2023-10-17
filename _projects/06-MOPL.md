@@ -1,6 +1,6 @@
 ---
 title: Bitsy & Twine
-date: 2022-05-10 10:30:00 +0300
+date: 05/10/2022 10:30:00 +0300
 subtitle: Fanworks
 image: '/images/mopl.png'
 ---

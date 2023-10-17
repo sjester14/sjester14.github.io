@@ -1,6 +1,6 @@
 ---
 title: GHMZine Vol. 2
-date: 2021-01-25 10:00:00 +0300
+date: 01/25/2021 10:00:00 +0300
 subtitle: Fanworks
 image: '/images/project-5.jpg'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Romancing SaGa Zine
-date: 2022-04-10 10:00:00 +0300
+date: 04/10/2022 10:00:00 +0300
 subtitle: Fanworks
 image: '/images/project-8.jpg'
 ---
