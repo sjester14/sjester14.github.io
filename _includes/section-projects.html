@@ -16,7 +16,7 @@
           </div>
 
           <div class="row">
-{% reversed for project in site.projects reversed limit:7 %} -->
+			{% for reversed project in site.projects reversed limit:7 %}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
                 <a href="{{ project.url }}" class="project__image">
@@ -36,6 +36,7 @@
             </article>
             {% endfor %}
           </div>
+
         </div>
       </div>
     </div>
