@@ -1,6 +1,6 @@
 ---
 title: Cold Start- The Callisto
-date: 07/07/2022 10:00:00 +0300
+date: 2022-07-07 10:00:00 +0300
 subtitle: Professional Work
 image: '/images/callistoWaypointPic2.png'
 ---
