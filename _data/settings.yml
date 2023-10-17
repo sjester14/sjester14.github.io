@@ -33,7 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Steve Jester
   title: <br>Hi, I’m Steve Jester.<br>
-  bio: <br>Junior Level Designer at GIB Games, Zine writer, and lover of niche games. Focused on environments and the interactions in gameplay and narrative that occur in them. In my spare time, I like to build scale models.
+  bio: <br>Level and Narrative Designer formerly at GIB Games, Zine writer, and lover of niche games. Focused on environments and the interactions in gameplay and narrative that occur in them. In my spare time, I like to build scale models.
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -44,7 +44,7 @@ author:
 
 projects__settings:
   projects__title: Latest <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
-  projects__description: Here's things I've worked on recently.
+  projects__description: These are a few projects I've worked on over the years, including my most recent and most important works.
   
 #-------------------------------
 # Blog Section
